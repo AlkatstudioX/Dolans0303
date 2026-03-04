@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "dolans0303",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      ".git/**",
+      ".gitignore",
+      "**/node_modules/**",
+      ".DS_Store"
+    ]
+  }
+}
